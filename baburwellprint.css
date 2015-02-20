@@ -1,0 +1,115 @@
+body {
+ font-family:Verdana, Arial, Helvetica, sans-serif;
+ margin:0px;
+ padding:0px;
+ background-color: #CCCCCC;
+}
+
+a {
+}
+
+a:visited {
+}
+
+a:hover {
+}
+
+hr {
+}
+
+blockquote {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 18px;
+}
+
+p {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	line-height:1.5em;
+	margin-top:0px;
+	font-weight:normal;
+ 	width:90%;
+	color:#000000;
+}
+
+ol {
+}
+
+h1 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 24px;
+	margin:0px;
+}
+
+h2 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	margin:0px;
+	margin-bottom:2px;
+	border-left-width: 7px;
+	border-left-style: solid;
+	border-left-color: #C8CBB7;
+}
+
+h3 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 13px;
+	margin:0px;
+	padding-left:20px;
+	padding-right:20px;
+	margin-bottom:0px;
+	color: #395E93;
+}
+
+b {
+	color: #395E93;
+}
+
+.loadingText {
+}
+
+td.mainSpace {
+	background-color:#FFFFFF;
+	padding: 20px;
+}
+td.logoSpace {
+	background-image: url(http://thegpf.com/projects/BABurwell/Current/images/logo.gif);
+	background-repeat: no-repeat;
+	background-position: left bottom;
+}
+td.bottom {
+	background-color: #000000;
+}
+td.menuEntry {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-weight: bold;
+	color: #FFFFFF;
+}
+
+
+td.left {
+	background-color: #ADAE9D;
+	background-image: url(images/left.gif);
+	background-repeat: no-repeat;
+	background-position: left bottom;
+}
+
+td.top {
+	background-image: url(images/top.gif);
+	background-repeat: repeat-x;
+	background-position: left bottom;
+}
+.menu {
+	background-color: #38382B;
+	cursor:pointer;
+}
+.link {
+	color: #395E93;
+	cursor:pointer;
+}
+
+.poem {
+	font-size: 12px;
+	font-family: Courier;
+}
